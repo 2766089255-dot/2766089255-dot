@@ -43,7 +43,7 @@ A Fashion-MNIST comparison of **MobileNetV2, ShuffleNetV2, and EfficientNet-B0**
 
 ## Experience & education
 
-- **AI Software Development Intern, CAIR, Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences** · Jul–Sep 2026  
+- **Intern, CAIR, Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences** · Jul–Sep 2026  
   Developed AirwayPose, a Python desktop application combining source images, virtual endoscopy, and interactive 3D airway views, with pose interpolation and human-in-the-loop annotation feedback.
 - **MSc Data Science, Lingnan University** · 2025–2026
 - **BEng Aircraft Manufacturing Engineering, Tianjin Sino-German University of Applied Sciences** · 2021–2025
